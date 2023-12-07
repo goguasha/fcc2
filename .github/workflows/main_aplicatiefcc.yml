@@ -53,4 +53,4 @@ jobs:
           app-name: 'aplicatiefcc'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C68EEEC82DF144199EB4A1EF5F589170 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4845251129ED48D1BE4543BF6A1E78FF }}
